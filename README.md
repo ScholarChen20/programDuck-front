@@ -1,3 +1,13 @@
+> 一个干净免费的面试刷题网站！
+>
+> 开源版为 React +  Node.js 全栈项目，包含网站前台 + 管理员后台的完整前后端代码。
+
+> 借鉴作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+>
+> 本项目为教学项目，提供完整视频教程 + 文字教程 + 简历写法 + 面试题解 + 答疑服务，帮你提升项目能力，给简历增加亮点！
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
